@@ -11,7 +11,7 @@ class MainController extends AbstractController
 {
 
     /**
-     * @Route("/", name="home")
+     * @Route("/", name="accueil")
      */
    public function index(): Response
    {
